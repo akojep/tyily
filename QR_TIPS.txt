@@ -1,0 +1,6 @@
+QR TATTOO TIPS
+- Use a short URL (or a branded short link) so the QR pattern is less dense.
+- Export QR with high error correction (level H) and include a white quiet zone border.
+- Print a 2×2 inch test sticker and verify it scans from multiple phones before tattooing.
+- Avoid placing the tattoo where skin stretches heavily (inner elbow, knuckle creases).
+- Keep the QR solid black on white for maximum contrast; no inverted colors.
